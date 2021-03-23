@@ -1,4 +1,4 @@
-package com.rocks.commons.beanutils;
+package com.rocks.commons.beanutils.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

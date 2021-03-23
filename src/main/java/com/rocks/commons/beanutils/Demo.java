@@ -1,5 +1,8 @@
 package com.rocks.commons.beanutils;
 
+import com.rocks.commons.beanutils.vo.Product;
+import com.rocks.commons.beanutils.vo.User;
+import com.rocks.commons.beanutils.vo.UserVo;
 import lombok.SneakyThrows;
 import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.beanutils.ConvertUtils;
